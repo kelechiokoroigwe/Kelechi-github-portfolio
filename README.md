@@ -9,7 +9,7 @@ Currently focused on designing scalable data pipelines and analytics platforms f
 ## ⚙️ What I Do
 
 - Build scalable ETL/ELT pipelines using Python and SQL  
-- Design and optimize modern data warehouses for large-scale analytics  
+- Design and optimize modern data warehouses for large-scale analytics using Databricks 
 - Develop data models that support reporting, ML, and real-time insights  
 - Integrate multi-source data (user activity, model outputs, event streams)  
 - Implement data quality checks, monitoring, and alerting systems  
